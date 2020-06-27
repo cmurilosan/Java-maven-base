@@ -1,4 +1,4 @@
-package br.com.alura.maven;git init
+package br.com.alura.maven;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
